@@ -45,7 +45,7 @@ Tarrasch/zsh-bd
 # Git
 # robbyrussell/oh-my-zsh folder:plugins/git
 wfxr/forgit
-zdharma/zsh-diff-so-fancy
+zdharma-continuum/zsh-diff-so-fancy
 caarlos0/zsh-git-sync kind:path
 seletskiy/zsh-git-smart-commands
 peterhurford/git-aliases.zsh
